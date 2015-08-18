@@ -1,0 +1,51 @@
+From berlios at urbanec.net  Mon Sep 26 14:22:43 2005
+From: berlios at urbanec.net (Peter Urbanec)
+Date: Mon, 26 Sep 2005 22:22:43 +1000
+Subject: [TAP-announce] TAP toolchain 1.1
+Message-ID: <4337E813.9060107@urbanec.net>
+
+Thanks to some great work done by Steve Bennett, we now have a toolchain 
+available for creating TAPs.
+
+The latest release is 1.1 and includes both source code and built 
+binaries for GNU/Linux x86, Windows/Cygwin x86 and Mac/OSX PPC.
+
+Please see the files section at http://developer.berlios.de/projects/tap/
+
+
+
+From berlios at urbanec.net  Sat Oct  1 17:48:49 2005
+From: berlios at urbanec.net (Peter Urbanec)
+Date: Sun, 02 Oct 2005 01:48:49 +1000
+Subject: [TAP-announce] TAP Project gets a new home page.
+Message-ID: <433EAFE1.9030801@urbanec.net>
+
+The TAP project just received a new home page. The new page should make 
+it easier to find relevant information. The new project page is a lot 
+simpler than the project summary page and contains links to all the 
+important resources.
+
+http://tap.berlios.de/
+
+Please use the above URL when referring to the project.
+
+
+
+From berlios at urbanec.net  Tue Oct  4 14:10:36 2005
+From: berlios at urbanec.net (Peter Urbanec)
+Date: Tue, 04 Oct 2005 22:10:36 +1000
+Subject: [TAP-announce] Project documentation updated.
+Message-ID: <4342713C.3060308@urbanec.net>
+
+The project page documentation link now points to a new section that 
+includes two step-by-step guides.
+
+Part one covers Cygwin installation and setup.
+
+Part two provides instructions for setting up the workspace, retrieving 
+the latest source code, building TAPs and making use of the automated 
+build infrastructure for your own TAP projects.
+
+Please visit http://tap.berlios.de/ and click on the Documentation link.
+
+
